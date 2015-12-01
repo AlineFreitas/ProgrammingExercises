@@ -1,0 +1,19 @@
+#Lista de Exercícios
+[Estrutura Sequencial]: http://wiki.python.org.br//EstruturaSequencial
+[Estrutura de Decisão]: http://wiki.python.org.br//EstruturaDeDecisao
+[Estrutura de Repetição]: http://wiki.python.org.br//EstruturaDeRepeticao
+[Listas]: http://wiki.python.org.br//ExerciciosListas
+[Funções]: http://wiki.python.org.br//ExerciciosFuncoes
+[Strings]: http://wiki.python.org.br//ExerciciosComStrings
+[Arquivos]: http://wiki.python.org.br//ExerciciosArquivos
+[Classes]: http://wiki.python.org.br//ExerciciosClasses
+
+#Listas de Exercício Usadas nesse Repositório
+1. [Estrutura Sequencial]
+2. [Estrutura de Decisão]
+3. [Estrutura de Repetição]
+4. [Listas]
+5. [Funções]
+6. [Strings]
+7. [Arquivos]
+8. [Classes]
