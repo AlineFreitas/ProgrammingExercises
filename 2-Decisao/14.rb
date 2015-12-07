@@ -6,15 +6,15 @@ parcial2 = gets.chomp.to_f
 
 media = (parcial1 + parcial2)/2
 
-if (10.0...9.0).include? media
+if (9.0..10.0).include? media
     conceito = "A"
-elsif (9...7.5).include? media
+elsif (7.5...9.0).include? media
     conceito = "B"
-elsif (7.5...6.0).include? media
+elsif (6.0...7.5).include? media
     conceito = "C"
-elsif (6.0...4.0).include? media
+elsif (4.0...6.0).include? media
     conceito = "D"
-elsif (4..0).include? media
+elsif (0...4.0).include? media
     conceito = "E"
 end
 
