@@ -10,9 +10,11 @@ if a > 0:
         x = -b/(2* a)
         print x
         pass
-    else:
+    elif delta > 0:
         x1 = (-b + sqrt(delta))/ (2 * a)
         x2 = (-b - sqrt(delta))/ (2 * a)
         print x1, x2
+    else:
+        print 'Numeros complexos nao sao tratados nesse modulo. Sorry!'
 else:
     pass
